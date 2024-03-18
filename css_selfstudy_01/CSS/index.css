@@ -1,9 +1,14 @@
-body {
+
+html {
     font-size: 22px;
-    border: 10px solid brown; 
+    border: 10px solid brown;
 }
 
-h1{
+body {
+    
+}
+
+h1, h2{
     color: limegreen;
 }
 
